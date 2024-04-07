@@ -1,4 +1,4 @@
-Patient Management System (IHIS) for improved patient care.
+Patient Management System (PMS) for improved patient care.
  
 Key Features:
 1. Patient Registration: Allow users to register new patients by capturing basic demographic information such as name, age, gender, and contact details.
